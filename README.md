@@ -26,16 +26,20 @@ The goal is to improve my skills in:
 - 🪄 Syncing changes directly from VS Code  
 - 🤝 Using branches and pull requests
 
----
+---VER SI APARECE ESTE CAMBIO
+VER SI APARECE ESTE CAMBIO
+VER SI APARECE ESTE CAMBIO
+VER SI APARECE ESTE CAMBIO
+
 
 ## 🐣 Goal
 
 This isn’t a serious project — I’m just **breaking things a little to learn** 😅  
 But the idea is to keep improving step by step.  
-
+VER SI APARECE ESTE CAMBIO
 ---
 
 ## 🌟 Contact
 
-If this repo ever becomes useful for something… awesome! 😎 
+
 
