@@ -1,4 +1,4 @@
-# LearningVSC
+<!-- # LearningVSC -->
 # 🚀 Practicing with Visual Studio Code & GitHub 💻
 
 Hey there! 👋  
@@ -24,7 +24,7 @@ The goal is to improve my skills in:
 - 📌 Cloning and pushing repositories  
 - 💬 Writing clear commit messages  
 - 🪄 Syncing changes directly from VS Code  
-- 🤝 Using branches and pull requests (coming soon)
+- 🤝 Using branches and pull requests
 
 ---
 
@@ -37,7 +37,5 @@ But the idea is to keep improving step by step.
 
 ## 🌟 Contact
 
-If this repo ever becomes useful for something… awesome! 😎  
-For now:  
-> “If nothing breaks, you’re not learning enough.” 🧨😂
+If this repo ever becomes useful for something… awesome! 😎 
 
