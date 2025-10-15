@@ -1,0 +1,2 @@
+# LearningVSC
+PracticaVSC
